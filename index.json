@@ -1,0 +1,64 @@
+[
+{
+	"uri": "http://example.org/",
+	"title": "Better Questions",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/posts/",
+	"title": "Posts",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/posts/what-does-the-bible-say-about-women-pastors/",
+	"title": "What does the Bible say about women pastors?",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": "Question: \u0026ldquo;What does the Bible say about women pastors?\u0026rdquo;\nAnswer:\n"
+},
+{
+	"uri": "http://example.org/about/",
+	"title": "About",
+	"tags": [""],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "About us?\n"
+},
+{
+	"uri": "http://example.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/series/",
+	"title": "Series",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+}]
